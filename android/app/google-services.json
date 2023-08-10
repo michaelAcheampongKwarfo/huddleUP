@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "722726449265",
+    "project_id": "huddleupproject-c446d",
+    "storage_bucket": "huddleupproject-c446d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722726449265:android:87b85591b5f2406222ebd0",
+        "android_client_info": {
+          "package_name": "com.example.huddle_up_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722726449265-6hd99e873066h5jjlkp8vlgrul1trpsi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBpcejda4EtPRPCd-r1rFbSX46hlF1bVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722726449265-6hd99e873066h5jjlkp8vlgrul1trpsi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
